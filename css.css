@@ -1,0 +1,41 @@
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"/>
+
+<!-- Bootstrap Font Icon CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+
+<style>
+
+body {
+  background-color: rgba(0, 128, 0, 0.1);
+}
+
+@media (min-width: 576px) {
+	.h-sm-100 {
+		height: 100%;
+	}
+}
+
+@media (min-width: 576px) {
+	.d-flex {
+
+		height: 100%;
+		width: 15%;
+		position: relative;
+	}
+}
+
+@media (min-width: 576px) {
+	.fs-1 {
+		font-size: 1.25rem !important;
+	}
+}
+
+@media (min-width: 576px) {
+	.pt-4 {
+		width: 85%;
+		position: relative;
+	}
+}
+
+</style>
