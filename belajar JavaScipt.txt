@@ -1,0 +1,8 @@
+Di JavaScript, ada beberapa cara untuk mendefinisikan fungsi, masing-masing dengan sintaks dan perilaku yang sedikit berbeda. Berikut adalah tipe-tipe utama fungsi yang digunakan dalam JavaScript:
+- Function Declaration: Fungsi dengan nama, dihoist.
+- Function Expression: Fungsi tanpa nama atau dengan nama yang disimpan dalam variabel, tidak dihoist.
+- Arrow Function: Fungsi singkat, tidak memiliki this sendiri.
+- Named Function Expression: Fungsi dalam ekspresi dengan nama lokal.
+- IIFE: Fungsi yang langsung dipanggil.
+- Generator Function: Fungsi dengan kemampuan untuk menghentikan dan melanjutkan eksekusi.
+- Async Function: Fungsi asynchronous yang menggunakan await.
